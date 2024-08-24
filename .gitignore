@@ -4,12 +4,23 @@
 
 ### Except
 !/.gitignore
+!LICENSE
+!*.md
+!*.json
+!docs
 
+!Makefile
+
+# web
+!*.html
+!*.css
+!*.js
+!*.jsx
+!*.ts
+!*.tsx
+
+# go
 !*.go
 !go.sum
 !go.mod
 
-!README.md
-!LICENSE
-
-!Makefile
