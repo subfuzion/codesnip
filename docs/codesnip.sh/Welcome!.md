@@ -20,3 +20,5 @@ Not a lot just yet. Over the years, I've published content all over the place. A
 My goal is to keep things short and simple. If I think more detail is important, I'll bury it in the footnotes with links for finding more information. You should be able to breeze through pages quickly and superficially and only refer to the footnotes if you want to know more.
 
 For now, if you'd like to leave me feedback, ask questions, or start a discussion, please do that at [CodeSnip Discussions](https://github.com/subfuzion/codesnip/discussions/1) or on [X](https://x.com/tonypujals).
+
+[Source Code](https://github.com/subfuzion/codesnip)
