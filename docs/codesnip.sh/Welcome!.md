@@ -9,7 +9,7 @@ I'm a software engineer in Developer Relations Engineering at Google Cloud. This
 
 ## Why Obsidian?
 
-[Obsidian](https://obsidian.md) is a wonderfully productive writing app that I was already using for taking markdown notes. It's blogging support is simple, but it supports my goal to be able to streamline the overhead of formal blogging, capture short notes and code snippets, and share them quickly and with the least amount of overhead possible.
+[Obsidian](https://obsidian.md) is a wonderfully productive writing app that I was already using for taking markdown notes. It's blogging support is simple, but it supports my goal to be able to streamline the overhead of formal blogging, capture short notes and code snippets, and share them quickly and with the least amount of friction possible.
 
 I've used gists for this purpose in the past, but Obsidian provides more structured organization and a very nice markdown editor, is well-supported across all of my devices, and to share, all I need to do is just hit the publish button. This supports my current use case quite well.
 
