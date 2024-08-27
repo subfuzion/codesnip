@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/2. Command-Line Programs/10. Base64 Command.md",
+                "file": "Go/2. Command-Line Programs/1. Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/2. Command-Line Programs/10. Base64 Command.md",
+                "file": "Go/2. Command-Line Programs/1. Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/2. Command-Line Programs/10. Base64 Command.md",
+                "file": "Go/2. Command-Line Programs/1. Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/2. Command-Line Programs/10. Base64 Command.md"
+                "file": "Go/2. Command-Line Programs/1. Commands.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   "active": "ef667811772fc17e",
   "lastOpenFiles": [
     "Go/2. Command-Line Programs/6. Looping Over Args.md",
-    "Go/2. Command-Line Programs/9. Line Number Command.md",
     "Go/2. Command-Line Programs/10. Base64 Command.md",
+    "Go/2. Command-Line Programs/9. Line Number Command.md",
     "Go/2. Command-Line Programs/5. Command args.md",
     "Go/2. Command-Line Programs/11. Spawn Process Command.md",
     "Go/2. Command-Line Programs/1. Commands.md",
