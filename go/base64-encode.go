@@ -9,7 +9,7 @@ import (
 func main() {
 
 	// Buffered input that splits input on lines.
-input := bufio.NewScanner(os.Stdin)
+	input := bufio.NewScanner(os.Stdin)
 
 	// Base64 Encoder/writer.
 	encoder := base64.NewEncoder(
