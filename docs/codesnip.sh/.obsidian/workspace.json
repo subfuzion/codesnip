@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/2. Command-Line Programs/1. Commands.md",
+                "file": "Topics/Custom CI Builder/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/2. Command-Line Programs/1. Commands.md",
+                "file": "Topics/Custom CI Builder/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/2. Command-Line Programs/1. Commands.md",
+                "file": "Topics/Custom CI Builder/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/2. Command-Line Programs/1. Commands.md"
+                "file": "Topics/Custom CI Builder/Overview.md"
               }
             }
           }
@@ -148,13 +148,10 @@
   },
   "active": "ef667811772fc17e",
   "lastOpenFiles": [
-    "publish.js",
     "Go/2. Command-Line Programs/11. Spawn Process.md",
-    "Go/1. Getting Started.md",
-    "Go/1. Install Go.md",
-    "Untitled.md",
-    "Go/2. Command-Line Programs/1. Commands.md",
-    "m.md",
+    "Topics/Custom CI Builder/Overview.md",
+    "Topics",
+    "Topics/Custom CI Builder",
     "Go/2. Command-Line Programs/10. Base64 Command.md",
     "Go/2. Command-Line Programs/9. Line Number Command.md",
     "Go/2. Command-Line Programs/8. Piping Data.md",
@@ -163,26 +160,29 @@
     "Go/2. Command-Line Programs/5. Command args.md",
     "Go/2. Command-Line Programs/4. go build.md",
     "Go/2. Command-Line Programs/3. go run.md",
+    "Go/2. Command-Line Programs/2. The main package.md",
+    "Go/2. Command-Line Programs/1. Commands.md",
+    "Deno/Command-Line Programs/2. deno run.md",
+    "Deno/Command-Line Programs/1. Overview.md",
+    "Deno/Command-Line Programs",
+    "Command-Line Programs",
+    "Deno/1. Getting Started.md",
+    "Deno",
+    "publish.js",
+    "Go/1. Getting Started.md",
+    "Go/1. Install Go.md",
+    "Untitled.md",
+    "m.md",
     "Welcome!.md",
     "Go/2. Command-Line Programs/10. Base64 Encode Command.md",
     "Go/2. Command-Line Programs/9. Line Number Command 1.md",
     "Go/2. Command-Line Programs/9. Line Numbering Command.md",
     "Go/2. Command-Line Programs/3. go run 1.md",
     "essays",
-    "Go/2. Command-Line Programs/2. The main package.md",
     "Welcome.md",
     "Go/2. Command-Line Programs/Running the snippets.md",
-    "Go/2. Command-Line Programs/5. Program Flags.md",
-    "Go/2. Command-Line Programs/4. Range Over Args.md",
-    "Go/2. Command-Line Programs/3. Hello Arg.md",
     "codesnip.sh/Go/2. Command-Line Programs",
     "codesnip.sh/posts",
-    "codesnip.sh/Go",
-    "codesnip.sh",
-    "Go/2. Command-Line Programs/Untitled",
-    "Go/1. Tools",
-    "publish.css",
-    "Go/2. Command-Line Programs",
-    "Go"
+    "codesnip.sh/Go"
   ]
 }
