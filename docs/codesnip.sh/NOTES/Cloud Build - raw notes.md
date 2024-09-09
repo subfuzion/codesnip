@@ -9,3 +9,14 @@ Decide:
 * Is it easy enough to customize cloudbuild.yaml?
 * Or is it better to create a custom build using a custom wrapper command for running builds, running tools, testing?
 
+
+
+
+# Create a project
+wise-vim-390522
+
+## Enable APIs
+
+- Cloud Build
+- Artifact Registry
+- Resource Manager
