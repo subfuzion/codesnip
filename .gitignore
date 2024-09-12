@@ -1,13 +1,14 @@
 ### Ignore everything
 *
-!*/
 
 ### Except
+!*/
 !/.gitignore
 !LICENSE
 !*.md
 !*.json
-!docs
+!*.yaml
+!*.yml
 
 !Makefile
 
@@ -25,4 +26,4 @@
 !go.sum
 !go.mod
 
-node_modules/
+#node_modules/

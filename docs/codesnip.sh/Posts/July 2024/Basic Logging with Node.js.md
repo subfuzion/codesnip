@@ -1,6 +1,5 @@
-# JavaScript
-
-## How to log something
+July 27, 2024
+# Log Something
 
 Use `console.log`:
 
@@ -8,7 +7,7 @@ Use `console.log`:
 console.log("Hello world");
 ```
 
-## How to log errors:
+# Log Errors:
 
 Use `console.error`:
 
@@ -16,8 +15,7 @@ Use `console.error`:
 console.error("Holy shittake!");
 ```
 
-## Grouping
-
+# Log Groups
 
 
 ```javascript
@@ -51,7 +49,7 @@ Begin:
 Done!
 ```
 
-## More control
+# More Control
 
 Use `process.stdout`
 

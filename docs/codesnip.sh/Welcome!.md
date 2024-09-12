@@ -7,6 +7,12 @@ Hello, I'm Tony!
 
 I'm a software engineer in Developer Relations Engineering at Google Cloud. This is my personal blog for sharing code snippets, notes, and articles, mostly related to my day-to-day work.
 
+## Recently Published
+
+- [[Using Go to Build Tools]] (August 27, 2024)
+- Tutorial: Go Command-Line Programs: [[Tutorials/Go/1. Getting Started|1. Getting Started]] (August 26, 2024)
+- [[Basic Logging with Node.js]] (July 27, 2024)
+
 ## Discussions
 
 If you have questions or you'd like to start a discussion, go here:
