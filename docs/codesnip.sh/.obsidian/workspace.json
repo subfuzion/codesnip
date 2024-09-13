@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.5
   },
   "right": {
     "id": "090a6a227ec04c55",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da4392d4d966651c",
+  "active": "94d8ccd842506736",
   "lastOpenFiles": [
     "Go/2. Command-Line Programs/10. Base64 Command.md",
     "Go/2. Command-Line Programs/9. Line Numbers Command.md",
@@ -162,7 +162,7 @@
     "Go/2. Command-Line Programs/9. Line Number Command.md",
     "publish.js",
     "publish.css",
-    "Debugging Node.js Samples.md",
+    "NOTES/Debugging Node.js Samples.md",
     "NOTES/Cloud Build - raw notes.md",
     "Go/1. Getting Started.md",
     "Welcome!.md",
