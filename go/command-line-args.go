@@ -13,6 +13,6 @@ func main() {
 
 	// Print each arg on its own line.
 	for i, arg := range args {
-		fmt.Printf("%d: %s\n", i+1, arg)
+		fmt.Println(i+1, arg)
 	}
 }
