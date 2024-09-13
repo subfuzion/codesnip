@@ -24,3 +24,4 @@
 !go.sum
 !go.mod
 
+node_modules/
