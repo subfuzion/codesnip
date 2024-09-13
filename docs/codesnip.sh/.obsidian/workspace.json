@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/2. Command-Line Programs/1. Overview.md",
+                "file": "Go/2. Command-Line Programs/2. Run Hello World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8427122cc94dab61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go/2. Command-Line Programs/3. Build Hello World.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/2. Command-Line Programs/1. Overview.md",
+                "file": "Go/2. Command-Line Programs/3. Build Hello World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/2. Command-Line Programs/1. Overview.md",
+                "file": "Go/2. Command-Line Programs/3. Build Hello World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/2. Command-Line Programs/1. Overview.md"
+                "file": "Go/2. Command-Line Programs/3. Build Hello World.md"
               }
             }
           }
@@ -146,16 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef667811772fc17e",
+  "active": "8427122cc94dab61",
   "lastOpenFiles": [
-    "Go/2. Command-Line Programs/2. Hello World.md",
-    "Go/2. Command-Line Programs/1. Overview.md",
+    "Go/2. Command-Line Programs/2. Run Hello World.md",
+    "Go/2. Command-Line Programs/3. Build Hello World.md",
+    "Go/2. Command-Line Programs/3. Hello Arg.md",
+    "Go/2. Command-Line Programs/1. Commands.md",
+    "Go/2. Command-Line Programs/Untitled",
+    "Go/1. Tools",
+    "Go/2. Command-Line Programs/Running the snippets.md",
+    "Go/2. Command-Line Programs/5. Program Flags.md",
+    "Go/2. Command-Line Programs/4. Range Over Args.md",
     "Go/1. Install Go.md",
-    "Go/2. Command-Line Programs/3. Program Arguments.md",
-    "Go/2. Command-Line Programs/4. Program Flags.md",
     "Go/2. Command-Line Programs/2. Command-line Flags.md",
     "Go/2. Command-Line Programs/1. What's a Command-Line Program.md",
-    "Go/2. Command-Line Programs/1. Command-Line Programs.md",
     "Go/2. Command-Line Programs/1. Command-Line Arguments.md",
     "Go/2. Command-Line Programs/2. Command-Line Arguments.md",
     "Go/1. Download and Install Go.md",
