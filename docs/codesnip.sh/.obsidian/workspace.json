@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "891dec94fd6e5565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go/2. Command-Line Programs/11. Spawn Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/2. Command-Line Programs/11. Spawn Process.md",
+                "file": "Go/2. Command-Line Programs/1. Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/2. Command-Line Programs/11. Spawn Process.md",
+                "file": "Go/2. Command-Line Programs/1. Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/2. Command-Line Programs/11. Spawn Process.md"
+                "file": "Go/2. Command-Line Programs/1. Commands.md"
               }
             }
           }
@@ -159,25 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52277960578e7c08",
+  "active": "ef667811772fc17e",
   "lastOpenFiles": [
-    "Go/2. Command-Line Programs/10. Base64 Command.md",
+    "Go/1. Getting Started.md",
     "Go/2. Command-Line Programs/11. Spawn Process.md",
-    "Go/2. Command-Line Programs/1. Commands.md",
-    "Go/2. Command-Line Programs/6. Looping Over Args.md",
+    "Go/2. Command-Line Programs/10. Base64 Command.md",
     "Go/2. Command-Line Programs/9. Line Number Command.md",
+    "Go/2. Command-Line Programs/8. Piping Data.md",
+    "Go/2. Command-Line Programs/7. Command flags.md",
+    "Go/2. Command-Line Programs/6. Looping Over Args.md",
     "Go/2. Command-Line Programs/5. Command args.md",
+    "Go/2. Command-Line Programs/4. go build.md",
+    "Go/2. Command-Line Programs/3. go run.md",
+    "m.md",
+    "Go/2. Command-Line Programs/1. Commands.md",
+    "Untitled.md",
+    "Welcome!.md",
     "Go/2. Command-Line Programs/10. Base64 Encode Command.md",
     "Go/2. Command-Line Programs/9. Line Number Command 1.md",
     "Go/2. Command-Line Programs/9. Line Numbering Command.md",
     "Go/2. Command-Line Programs/3. go run 1.md",
-    "Go/2. Command-Line Programs/8. Piping Data.md",
     "essays",
-    "Go/1. Install Go.md",
-    "Welcome!.md",
-    "Go/2. Command-Line Programs/7. Command flags.md",
-    "Go/2. Command-Line Programs/4. go build.md",
-    "Go/2. Command-Line Programs/3. go run.md",
     "Go/2. Command-Line Programs/2. The main package.md",
     "Welcome.md",
     "Go/2. Command-Line Programs/Running the snippets.md",
@@ -186,7 +175,6 @@
     "Go/2. Command-Line Programs/3. Hello Arg.md",
     "Go/2. Command-Line Programs/3. Build Hello World.md",
     "Go/2. Command-Line Programs/2. Run Hello World.md",
-    "codesnip.sh/Go/2. Command-Line Programs/7. Command flags.md",
     "codesnip.sh/Go/2. Command-Line Programs",
     "codesnip.sh/posts",
     "codesnip.sh/Go",
