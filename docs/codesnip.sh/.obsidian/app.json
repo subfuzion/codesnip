@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "propertiesInDocument": "source",
-  "vimMode": true
+  "vimMode": true,
+  "tabSize": 8
 }
