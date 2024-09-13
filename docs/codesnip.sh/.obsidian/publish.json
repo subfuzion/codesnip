@@ -4,5 +4,7 @@
   "included": [
     "Posts"
   ],
-  "excluded": []
+  "excluded": [
+    "NOTES"
+  ]
 }
