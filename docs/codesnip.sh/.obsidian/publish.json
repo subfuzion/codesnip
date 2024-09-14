@@ -2,7 +2,9 @@
   "siteId": "b160c9f5981dcf708aebba790812d119",
   "host": "publish-01.obsidian.md",
   "included": [
-    "Posts"
+    "Posts",
+    "Topics",
+    "Tutorials"
   ],
   "excluded": [
     "NOTES"

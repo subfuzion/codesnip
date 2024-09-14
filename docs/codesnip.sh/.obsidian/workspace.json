@@ -11,8 +11,12 @@
             "id": "6ed39c7fbfdbf7f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/Debugging Node.js Samples.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NOTES/Debugging Node.js Samples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NOTES/Debugging Node.js Samples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NOTES/Debugging Node.js Samples.md"
+              }
+            }
+          },
+          {
+            "id": "4a4c0237126c9142",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ]
@@ -130,16 +150,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4235661a25f7594f",
+  "active": "6ed39c7fbfdbf7f1",
   "lastOpenFiles": [
+    "NOTES/Cloud Build - raw notes.md",
+    "_PRIVATE_/NOTES/Cloud Build - raw notes.md",
+    "_PRIVATE_/NOTES/Debugging Node.js Samples.md",
+    "NOTES/Debugging Node.js Samples.md",
     "Projects/Custom CI Builder/1. Overview.md",
     "Posts/July 2024/Basic Logging with Node.js.md",
     "Posts/August 2024/Using Go to Build Tools.md",
@@ -147,8 +173,6 @@
     "Posts/August 2024",
     "Posts",
     "Go/2. Command-Line Programs/9. Line Numbers Command.md",
-    "NOTES/Cloud Build - raw notes.md",
-    "NOTES/Debugging Node.js Samples.md",
     "NOTES",
     "Topics/Custom CI Builder/Overview.md",
     "Deno/Command-Line Programs/1. Overview.md",
@@ -170,8 +194,6 @@
     "codesnip.sh/Go/2. Command-Line Programs/7. Command flags.md",
     "codesnip.sh/Go/2. Command-Line Programs/6. Looping Over Args.md",
     "codesnip.sh/Go/2. Command-Line Programs/5. Command args.md",
-    "codesnip.sh/Go/2. Command-Line Programs/4. go build.md",
-    "codesnip.sh/Go/2. Command-Line Programs/3. go run.md",
     "codesnip.sh/Go/2. Command-Line Programs",
     "codesnip.sh/posts",
     "codesnip.sh/Go",
