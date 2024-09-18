@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorials/Go/1. Getting Started.md",
+                "file": "Tutorials/Go/2. Command-Line Programs/5. Command args.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5110321044922
+    "width": 350.5024719238281
   },
   "right": {
     "id": "090a6a227ec04c55",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorials/Go/1. Getting Started.md",
+                "file": "Tutorials/Go/2. Command-Line Programs/5. Command args.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorials/Go/1. Getting Started.md",
+                "file": "Tutorials/Go/2. Command-Line Programs/5. Command args.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorials/Go/1. Getting Started.md"
+                "file": "Tutorials/Go/2. Command-Line Programs/5. Command args.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94d8ccd842506736",
+  "active": "cdb1b876592f5c80",
   "lastOpenFiles": [
+    "Tutorials/Go/2. Command-Line Programs/7. Command flags.md",
+    "Tutorials/Go/2. Command-Line Programs/5. Command args.md",
+    "Tutorials/Go/1. Getting Started.md",
     "NOTES/Cloud Build - raw notes.md",
     "Projects/Custom CI Builder/3. Build Configuration.md",
     "Tutorials/Go/2. Command-Line Programs/9. Line Numbers Command.md",
@@ -155,8 +158,6 @@
     "Tutorials/Go/2. Command-Line Programs/2. The main package.md",
     "Tutorials/Go/2. Command-Line Programs/10. Base64 Command.md",
     "Tutorials/Go/2. Command-Line Programs/11. Spawn Process.md",
-    "Tutorials/Go/2. Command-Line Programs/7. Command flags.md",
-    "Tutorials/Go/2. Command-Line Programs/5. Command args.md",
     "Tutorials/Go/2. Command-Line Programs/8. Piping Data.md",
     "Tutorials/Go/2. Command-Line Programs/1. Commands.md",
     "Tutorials/Go/2. Command-Line Programs/4. go build.md",
@@ -179,7 +180,6 @@
     "Projects",
     "Tutorials/Deno/1. Getting Started.md",
     "Tutorials/Deno",
-    "Tutorials/Go/1. Getting Started.md",
     "Tutorials/Go",
     "Posts/2024-07-27.md",
     "Topics/Custom CI Builder/3. Build Configuration.md",
