@@ -1,7 +1,8 @@
 ---
 publish: "true"
-permalink: /go
+permalink: /go/command-line-programs/getting-started
 ---
+## Getting Started
 
 ⏱️ <5m
 
@@ -12,10 +13,9 @@ permalink: /go
 go version
 ```
 
+## Source Code
 
-[Go snippets source code](https://github.com/subfuzion/codesnip)
-
-For more code snippets, [Go by Example](https://gobyexample.com/) is an excellent resource.
+The source code for the snippets in this guide are here: [subfuzion/codesnip](https://github.com/subfuzion/codesnip/tree/main/go)
 
 ---
 Next: [[1. Commands]]

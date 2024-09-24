@@ -3,10 +3,9 @@
   "host": "publish-01.obsidian.md",
   "included": [
     "Posts",
-    "Topics",
-    "Tutorials"
+    "Guides"
   ],
   "excluded": [
-    "NOTES"
+    "_"
   ]
 }

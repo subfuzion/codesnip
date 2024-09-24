@@ -3,5 +3,8 @@
   "showUnsupportedFiles": true,
   "propertiesInDocument": "source",
   "vimMode": true,
-  "tabSize": 8
+  "tabSize": 8,
+  "userIgnoreFilters": [
+    "_"
+  ]
 }

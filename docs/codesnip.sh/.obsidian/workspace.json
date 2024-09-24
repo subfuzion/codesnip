@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9cd2f7425f3ae7ec",
+        "id": "ba8e7246098d4904",
         "type": "tabs",
         "children": [
           {
-            "id": "f7ace9062b90acfb",
+            "id": "e1147fd9d61270ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "NOTES/Firebase App Hosting/App Hosting - Arch Overview.canvas",
-                "viewState": {
-                  "x": -194,
-                  "y": -94.5,
-                  "zoom": -0.6670419858523996
-                }
-              }
+                "file": "Posts/Built-in TypeScript Support with Node.js (Sep 2024).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Built-in TypeScript Support with Node.js (Sep 2024)"
             }
           }
         ]
@@ -42,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -57,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -65,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 350.5024719238281
+    "width": 399.5024719238281
   },
   "right": {
     "id": "090a6a227ec04c55",
@@ -88,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Firebase App Hosting/App Hosting - Arch Overview.canvas",
+                "file": "Posts/Built-in TypeScript Support with Node.js (Sep 2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Built-in TypeScript Support with Node.js (Sep 2024)"
             }
           },
           {
@@ -105,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/Firebase App Hosting/App Hosting - Arch Overview.canvas",
+                "file": "Posts/Built-in TypeScript Support with Node.js (Sep 2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Built-in TypeScript Support with Node.js (Sep 2024)"
             }
           },
           {
@@ -119,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -128,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/Firebase App Hosting/App Hosting - Arch Overview.canvas"
-              }
+                "file": "Posts/Built-in TypeScript Support with Node.js (Sep 2024).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Built-in TypeScript Support with Node.js (Sep 2024)"
             }
           },
           {
@@ -141,7 +154,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -153,9 +168,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "daily-notes:Open today's daily note": false,
       "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,43 +178,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94d8ccd842506736",
+  "active": "e1147fd9d61270ae",
   "lastOpenFiles": [
-    "NOTES/Firebase App Hosting/App Hosting - Arch Overview.canvas",
-    "Tutorials/Go/2. Command-Line Programs/5. Command args.md",
-    "Tutorials/Go/2. Command-Line Programs/7. Command flags.md",
-    "Tutorials/Go/1. Getting Started.md",
-    "NOTES/Cloud Build - raw notes.md",
-    "Projects/Custom CI Builder/3. Build Configuration.md",
-    "Tutorials/Go/2. Command-Line Programs/9. Line Numbers Command.md",
-    "Tutorials/Go/2. Command-Line Programs/6. Looping Over Args.md",
-    "Tutorials/Go/2. Command-Line Programs/2. The main package.md",
-    "Tutorials/Go/2. Command-Line Programs/10. Base64 Command.md",
-    "Tutorials/Go/2. Command-Line Programs/11. Spawn Process.md",
-    "Tutorials/Go/2. Command-Line Programs/8. Piping Data.md",
-    "Tutorials/Go/2. Command-Line Programs/1. Commands.md",
-    "Tutorials/Go/2. Command-Line Programs/4. go build.md",
-    "Tutorials/Deno/Command-Line Programs/1. Overview.md",
-    "Tutorials/Deno/Command-Line Programs/2. deno run.md",
-    "Tutorials/Deno/Command-Line Programs",
-    "Tutorials/Go/2. Command-Line Programs/3. go run.md",
-    "Tutorials/Go/2. Command-Line Programs",
-    "Posts/July 2024/Basic Logging with Node.js.md",
-    "Posts/July 2024",
-    "_PRIVATE_/NOTES/Debugging Node.js Samples.md",
-    "Projects/Custom CI Builder/2. Cloud Build.md",
-    "Posts/August 2024/Using Go to Build Tools.md",
+    "Guides/Go/Command-Line Programs/9. Line Numbers Command.md",
+    "Guides/Go/Command-Line Programs/8. Piping Data.md",
+    "Guides/Go/Command-Line Programs/1. Commands.md",
+    "Guides/Go/Command-Line Programs/Getting Started With Go.md",
+    "Posts/Go for CLI Apps and Tools (Aug 2024).md",
+    "Posts/Built-in TypeScript Support with Node.js (Sep 2024).md",
+    "Posts/Building Standalone Executables With Node.js (Sep 2024).md",
+    "Home.md",
+    "About.md",
+    "Guides/Go/Command-Line Programs/12. Where to Go Next.md",
+    "Guides/Go/Command-Line Programs/2. The main package.md",
+    "Guides/Go/Command-Line Programs/3. go run.md",
+    "Guides/Go/Command-Line Programs/4. go build.md",
+    "Guides/Go/Command-Line Programs/5. Command Arguments.md",
+    "Guides/Go/Command-Line Programs/7. Command Flags.md",
+    "Guides/Go/Command-Line Programs/11. Spawn Process.md",
+    "Guides/Go/Command-Line Programs/10. Base64 Command.md",
+    "Command-Line Programs.md",
+    "Discussions.md",
+    "().md",
+    "Posts/September 2024",
+    "Topics/Custom CI Builder/3. Build Configuration.md",
+    "Topics/Custom CI Builder/2. Cloud Build.md",
+    "_/DRAFTS/Custom CI Builder/1. Overview.md",
+    "_/DRAFTS/Custom CI Builder/3. Build Configuration.md",
+    "_/DRAFTS/Custom CI Builder/2. Cloud Build.md",
+    "Topics/Custom CI Builder/1. Overview.md",
+    "_",
+    "_/DRAFTS",
+    "Home",
+    "_/NOTES/Firebase App Hosting/App Hosting - Arch Overview.canvas",
+    "_/DRAFTS/Deno/Command-Line Programs",
+    "Guides/Go/Command-Line Programs",
+    "_/DRAFTS/July 2024",
     "Posts/August 2024",
-    "_PRIVATE_/NOTES/Cloud Build - raw notes.md",
     "_PRIVATE_/NOTES",
-    "_PRIVATE_",
-    "Projects/Custom CI Builder/1. Overview.md",
-    "Projects/Custom CI Builder",
-    "Projects",
-    "Tutorials/Deno/1. Getting Started.md",
-    "Tutorials/Deno",
-    "Tutorials/Go",
-    "Posts/2024-07-27.md",
-    "Topics/Custom CI Builder/3. Build Configuration.md"
+    "_PRIVATE_"
   ]
 }
