@@ -3,7 +3,8 @@
   "host": "publish-01.obsidian.md",
   "included": [
     "Posts",
-    "Guides"
+    "Guides",
+    "image"
   ],
   "excluded": [
     "_"

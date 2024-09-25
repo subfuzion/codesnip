@@ -180,6 +180,12 @@
   },
   "active": "e1147fd9d61270ae",
   "lastOpenFiles": [
+    "image/framework-adapter-arch.png",
+    "image",
+    "framework-adapter-arch.png",
+    "_/NOTES/Firebase App Hosting/App Hosting - Arch Overview.canvas",
+    "Posts/App Hosting - Arch Overview.canvas",
+    "Posts/Firebase App Hosting Framework Adapter Overview (Sep 2024).md",
     "Guides/Go/Command-Line Programs/9. Line Numbers Command.md",
     "Guides/Go/Command-Line Programs/8. Piping Data.md",
     "Guides/Go/Command-Line Programs/1. Commands.md",
@@ -205,17 +211,13 @@
     "Topics/Custom CI Builder/2. Cloud Build.md",
     "_/DRAFTS/Custom CI Builder/1. Overview.md",
     "_/DRAFTS/Custom CI Builder/3. Build Configuration.md",
-    "_/DRAFTS/Custom CI Builder/2. Cloud Build.md",
-    "Topics/Custom CI Builder/1. Overview.md",
     "_",
     "_/DRAFTS",
     "Home",
-    "_/NOTES/Firebase App Hosting/App Hosting - Arch Overview.canvas",
     "_/DRAFTS/Deno/Command-Line Programs",
     "Guides/Go/Command-Line Programs",
     "_/DRAFTS/July 2024",
     "Posts/August 2024",
-    "_PRIVATE_/NOTES",
-    "_PRIVATE_"
+    "_PRIVATE_/NOTES"
   ]
 }
